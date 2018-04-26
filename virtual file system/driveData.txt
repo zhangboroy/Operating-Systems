@@ -1,0 +1,31 @@
+30
+0	3	0	1	Readme	txt	introduction
+0	5	0	2	Father	doc	father
+0	6	0	2	Mother	doc	mother
+0	7	0	2	Lincoln	pdf	lincoln
+0	9	0	3	Brother	docx	brother
+0	10	0	3	Jobs	chm	jobs
+1	6	0	2	Dangerous	mp3	dangerous
+1	7	0	2	Hero	wmv	hero
+1	8	0	2	Rose	wma	rose
+1	9	0	2	Superstitious	rm	superstitious
+2	3	0	2	Hero	mpg	hero
+2	4	0	2	Superman	avi	superman
+2	5	0	2	Ironman	asf	ironman
+2	6	0	2	Hulk	wmv	hulk
+2	7	0	2	Alien	rmvb	alien
+2	8	0	2	Inception	dat inception
+2	9	0	2	Interstellar	avi interstellar
+2	10	0	2	Geostorm	mpeg	geostorm
+1	5	1	2	New	0
+1	10	1	2	New	0
+0	4	1	2	New	1	9
+0	8	1	2	New	1	10
+0	1	1	1	Novel	3	4	5	6
+0	2	1	1	Biography	2	7	8
+1	1	1	1	Rock	2	5	6
+1	2	1	1	Pop	2	7	8
+1	3	1	1	Funk	1	9
+1	4	1	1	Soul	1	10
+2	1	1	1	Action	4	3	4	5	6
+2	2	1	1	Sci-Fi	4	7	8	9	10
